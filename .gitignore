@@ -1,4 +1,8 @@
-
+node_modules
+.DS_Store
+public/dist
+public/dist-ssr
+.idea
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
